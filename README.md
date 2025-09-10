@@ -43,7 +43,7 @@ The model is trained to classify images into 10 categories:
 ## 📂 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/MuhammadAsad29/Cifar_10-image-classification/cifar-10-cnn.git
+   git clone https://github.com/MuhammadAsad29/Cifar_10-image-classification.git
    cd cifar-10-cnn
    ```
 
